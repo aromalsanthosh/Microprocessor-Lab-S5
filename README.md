@@ -1,5 +1,8 @@
-
-## CSL331 Microproccesor Lab
+<h1 align="center">Microprocessor Lab | KTU</h1>
+<div align="center">
+  <p>This repository contains a collection of assembly programs written as part of Microprocessor Lab KTU</p>
+</div>
+<br><br>
 
 ### [System Software Lab](https://github.com/aromalsanthosh/Microprocessor-Lab-S5)
 
@@ -17,10 +20,11 @@
 	`mount c: /home/Desktop/masm`  <br>
 	`c:` 
 7. Assemble, link & run program using MASM <br>
-`masm pgmname;`<br>
- `link pgmname;` <br>
- `pgmname`
+`masm pgmname.asm;`<br>
+ `link pgmname.obj;` <br>
+ `pgmname.exe`
 	
 ## 👉🏻 MASM Programs
 
+- [Program to print Hello World](/Programs/Hello.asm)
 - [Program to check if a string is palindrome](/Programs/palindrome.asm)
