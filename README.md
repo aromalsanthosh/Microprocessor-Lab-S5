@@ -4,7 +4,7 @@
 </div>
 <br><br>
 
-### [System Software Lab](https://github.com/aromalsanthosh/Microprocessor-Lab-S5)
+### [System Software Lab](https://github.com/aromalsanthosh/System-Software-Lab-S5)
 
 
 
