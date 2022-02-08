@@ -6,7 +6,7 @@
 
 ### [System Software Lab](https://github.com/aromalsanthosh/Microprocessor-Lab-S5)
 
-#### This repository contains programs done as a part of KTU S5 Microprocessor Lab.
+
 
 
 ### MASM Installation in Linux
