@@ -13,11 +13,11 @@
 
  1. First Install DOSBOX, use command `sudo apt-get install dosbox`
  2. Download and extract MASM from  👉🏻 [MASM Setup ZIP](/masm.zip)
- 3. Copy the extracted folder anywhere in the system. `eg ; '/home/Desktop/masm`
- 4. Save programs inside extracted folder  `eg ; '/home/Desktop/masm/pgmname.asm`
+ 3. Copy the extracted folder anywhere in the system. `eg ; '/home/aromal/Desktop/masm`
+ 4. Save programs inside extracted folder  `eg ; '/home/aromal/Desktop/masm/pgmname.asm`
  5. Open DOSBOX
  6. Use the following command in DOSBOX <br>
-	`mount c: /home/Desktop/masm`  <br>
+	`mount c /home/aromal/Desktop/masm`  <br>
 	`c:` 
 7. Assemble, link & run program using MASM <br>
 `masm pgmname.asm;`<br>
